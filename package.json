@@ -1,9 +1,9 @@
 {
-  "name": "vex",
-  "version": "16.3.0",
-  "description": "Vex - Angular Admin Dashboard Template",
-  "author": "https://themeforest.net/user/visurel",
-  "license": "https://themeforest.net/licenses/standard",
+  "name": "mele-template",
+  "version": "1.0.0",
+  "description": "Mele template with the structure and based on Vex - Angular Admin Dashboard Template ",
+  "author": "Mele",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "ng": "ng",
